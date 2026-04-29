@@ -4,7 +4,7 @@ Help Line:  +1 888 359-4791
 
 Dear Customer,
 
-The Norton Life Lock Plan payment of $348.37 USD has now been made. If you think this transaction was rejected, you should get in touch with support by April 28, 2026. Refunds for payments made after this date are not available.
+The Norton Life Lock Plan payment of $348.37 USD has now been made. If you think this transaction was rejected, you should get in touch with support by April 29, 2026. Refunds for payments made after this date are not available.
 
 Product Details
 
