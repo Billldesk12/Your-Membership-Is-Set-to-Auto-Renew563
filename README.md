@@ -1,21 +1,17 @@
-Norton Life Lock
+You authorized a payment of $587.98 to Coinbase. Nc
 
-Help Line:  +1 888 359-4791
+This is an email confirmation for the payment you made to Coin-base inc, for
 
-Dear Customer,
+The purchase of bitcoin cryptocurrency, through your PayPal account. This transaction can take 24-36 hours to show up on your statement
 
-The Norton Life Lock Plan payment of $348.37 USD has now been made. If you think this transaction was rejected, you should get in touch with support by April 29, 2026. Refunds for payments made after this date are not available.
+Thanks for using PayPal. To see the fuII transaction detaiIs, log in to your PayPaI account
 
-Product Details
+lNVOlCE :- SDF54DF2-1DF54
+TRANSACTlON DATE :- 30-04-2026
+AMOUNT :- $587.98
+Help Desk:+1 (888) 381-6869
 
-Product: Norton Life Lock
+Issues with this transaction?
 
-Invoice No: #INV-SD9-SDFD-DRG59
+You have 24 hours from the time of the transaction to dispute and stop this transaction. CaII the TOLL-FREE number below to reach PayPaI Support +1 (888) 381-6869
 
-Current Plan: 1-Year Subscription
-
-Please get in touch with our support staff right once if you did not authorise this transaction.  +1 888 359-4791
-
-Thanks,
-
-Billing Dept.
